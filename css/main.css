@@ -1,0 +1,32 @@
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: tahoma, Arial;
+}
+.container{
+    width: 800px;
+    margin: auto;
+}
+.post-box{
+    background-color: #f6f6f6;
+    margin-top: 20px;
+    border-radius: 7px;
+}
+h2{
+    padding: 20px;
+    /* background-color: white; */
+    border-bottom: 1px solid #ddd;
+    color: #2b5d74ff;
+    text-align: center;
+}
+p{
+    padding: 10px 20px;
+    color: #777;
+    text-align: center;
+    line-height: 1.6;
+}
